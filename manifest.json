@@ -1,0 +1,21 @@
+
+
+
+
+
+{
+     "name": "random words",
+     "version": "1.0.2",
+     "description" : "random words.",
+     "manifest_version": 3,
+     "author":"jaimamni",
+     "action":{
+        "default_popup":"index.html",
+        "default_icon":"5c7ae09ceaea1db0f096008a_Cartoon-Logo-BBQ.png" 
+        
+     },
+         
+         
+     "icons" :{ "128" :"5c7ae09ceaea1db0f096008a_Cartoon-Logo-BBQ.png" 
+
+}}
